@@ -8,5 +8,14 @@ step2:
 
 
 step3:
- python BufferOverFlow
+ change the ip to  target ip 
+
+steps 4 :
+make your payload and using your ip 
+
+steps 5:
+listen on your kali machine 
+
+steps 6 :
+run the script with "python <yourscript>.py"
 
